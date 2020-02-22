@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_home"
+        android:icon="@drawable/ic_home_black_24dp"
+        android:title="Home" />
+
+    <item
+        android:id="@+id/navigation_dashboard"
+        android:icon="@drawable/ic_dashboard_black_24dp"
+        android:title="Dashboard" />
+
+    <item
+        android:id="@+id/navigation_profile"
+        android:icon="@drawable/ic_people_black_24dp"
+        android:title="Profile" />
+
+    <item
+        android:id="@+id/navigation_social"
+        android:icon="@drawable/ic_forum_black_24dp"
+        android:title="Social" />
+
+    <item
+        android:id="@+id/navigation_forum"
+        android:icon="@drawable/beesmart"
+        android:title="About" />
+
+</menu>
