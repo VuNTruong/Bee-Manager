@@ -22,20 +22,10 @@
         android:layout_height="50dp"
         android:layout_marginStart="16dp"
         android:layout_marginBottom="12dp"
-        android:src="@drawable/profile"
+        android:src="@drawable/beesmart"
         app:civ_border_color="#FF000000"
         app:civ_border_width="2dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintStart_toStartOf="parent" />
-
-    <Button
-        android:id="@+id/follow"
-        android:layout_width="wrap_content"
-        android:layout_height="39dp"
-        android:layout_marginTop="20dp"
-        android:layout_marginEnd="10dp"
-        android:text="Follow"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
